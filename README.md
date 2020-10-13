@@ -2,4 +2,4 @@
 
 It is based on my [donbass.vim](https://www.vim.org/scripts/script.php?script_id=2730) colorscheme for Vim.
 
-![Screenshot](./donkey.png)
+![Screenshot](https://raw.githubusercontent.com/dmaluka/donkey-colorscheme/master/donkey.png)
